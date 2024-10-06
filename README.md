@@ -1,10 +1,4 @@
 # Agile-Flow-2-5
-### Team Leader: Pranjal Pimple
-### Team Members: 
-### 1. Prathemesh Kalantri 
-### 2. Prasad Shinde
-### 3. Gitesh Pawar
-### 4. Vyankatesh Kalantri
 
 # Project Documents
 
